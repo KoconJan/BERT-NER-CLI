@@ -1,5 +1,5 @@
 # BERT_NER_CLI Step by Step Guide
-
+a
 Before started, would like to appreciate for [Google Research Team](https://github.com/google-research) and [@Kaiyinzhou's](https://github.com/kyzhouhzau) previous work at [here](https://github.com/kyzhouhzau/BERT-NER).
 
 - [Environment](#environment)
